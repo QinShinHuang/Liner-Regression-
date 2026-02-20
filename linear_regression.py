@@ -1,9 +1,6 @@
 import csv
 import math
 
-# Linear Regression from scratch - no sklearn, no numpy
-# Demonstrates understanding of ML fundamentals
-
 def mean(values):
     return sum(values) / len(values)
 
